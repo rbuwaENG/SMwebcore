@@ -1,0 +1,6 @@
+@SMwebcore_HostAddress = http://localhost:5145
+
+GET {{SMwebcore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
